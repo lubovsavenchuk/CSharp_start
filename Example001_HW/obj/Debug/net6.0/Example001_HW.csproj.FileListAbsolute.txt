@@ -1,0 +1,15 @@
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.deps.json
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.runtimeconfig.json
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.dll
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.pdb
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.csproj.AssemblyReference.cache
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.AssemblyInfoInputs.cache
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.AssemblyInfo.cs
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.csproj.CoreCompileInputs.cache
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.dll
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/refint/Example001_HW.dll
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.pdb
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.genruntimeconfig.cache
+/Users/asik13370/Desktop/geekbrains_studies/Examples/Example001_HW/obj/Debug/net6.0/ref/Example001_HW.dll
